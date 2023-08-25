@@ -1,0 +1,45 @@
+{
+  "Timestamp": "2023-07-28T08:00:00",
+  "DeviceID": "Device01",
+  "AssetID": "Asset01",
+  "Temperature": 40.5,
+  "Pressure": 30.2,
+  "Vibration": 3.2,
+  "Status": "Em operação"
+},
+{
+  "Timestamp": "2023-07-28T08:01:00",
+  "DeviceID": "Device01",
+  "AssetID": "Asset01",
+  "Temperature": 40.3,
+  "Pressure": 31.1,
+  "Vibration": 3.4,
+  "Status": "Em operação"
+},
+{
+  "Timestamp": "2023-07-28T08:02:00",
+  "DeviceID": "Device01",
+  "AssetID": "Asset01",
+  "Temperature": 39.8,
+  "Pressure": 32.0,
+  "Vibration": 3.5,
+  "Status": "Em operação"
+},
+{
+  "Timestamp": "2023-07-28T08:03:00",
+  "DeviceID": "Device02",
+  "AssetID": "Asset02",
+  "Temperature": 60.1,
+  "Pressure": 28.9,
+  "Vibration": 5.0,
+  "Status": "Em manutenção"
+},
+{
+  "Timestamp": "2023-07-28T08:04:00",
+  "DeviceID": "Device02",
+  "AssetID": "Asset02",
+  "Temperature": 58.9,
+  "Pressure": 29.8,
+  "Vibration": 4.8,
+  "Status": "Em manutenção"
+}
